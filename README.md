@@ -1,6 +1,6 @@
 # Non-Linear-Harmonic-Oscillator
 
-This project was conducted as part of the PS-530 module of Computational Physics at Dublin City University. The project aimed to extend a linear simple harmonic motion solver to a nonlinear harmonic oscillator by introducing a nonlinear correction term and validate its accuracy using the Method of Manufactured Solutions. Additionally, the project explored a peculiar loss of accuracy observed under certain conditions and sought to understand its underlying causes. The project was divided into two main phases.
+This project was conducted as part of the PS-530 module of Computational Physics at Dublin City University. The project aimed to extend a linear simple harmonic motion solver to a nonlinear harmonic oscillator by introducing a nonlinear correction term and validate its accuracy using the Method of Manufactured Solutions. Additionally, the project explored the surprising loss of accuracy observed under certain conditions and sought to understand its underlying causes. The project was divided into two main phases.
 
 The Methodology behind the 2 phases is given as follows:
 
