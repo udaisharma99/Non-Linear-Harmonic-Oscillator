@@ -19,4 +19,15 @@ Part II:
 3. A surprising loss of accuracy was observed as the nonlinear constant increased.
 4. The cause of this loss was explored, and a plausible explanation was provided.
 
-The project successfully extended a linear harmonic oscillator solver to a nonlinear counterpart, validated its accuracy using a rigorous method, and identified the reason behinf the loss of accuracy under specific conditions.
+This project leveraged the following skills:
+1. Jupyter Notebook
+2. Python
+3. MMS Model
+4. Numerical modelling
+5. Model Validation
+6. Model testing
+7. Qualitative analysis
+8. Data visualisation
+
+
+The project concluded by successfully extending a linear harmonic oscillator solver to a nonlinear counterpart, validating its accuracy using a rigorous method, and identifying the reason behind the loss of accuracy under specific conditions.
