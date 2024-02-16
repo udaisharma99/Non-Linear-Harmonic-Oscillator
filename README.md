@@ -19,6 +19,12 @@ Part II:
 3. A surprising loss of accuracy was observed as the nonlinear constant increased.
 4. The cause of this loss was explored, and a plausible explanation was provided.
 
+Learnings:
+- Verification of Code by comparison with exact solutions: The preferred method whenever possible
+- Convergence of the L2 relative error norm at an expected rate is the strongest test
+- Use of Manufactured Solutions is often possible when no other exact solution is available
+- Verification of Calculations is always necessary. Correct code does not guarantee correct solutions
+
 This project leveraged the following skills:
 1. Jupyter Notebook
 2. Python
